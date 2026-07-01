@@ -1,0 +1,297 @@
+Gig Title,About the Gig,About Me,Reviews,Stars,Caption,Description,Package,Cost,Delivery Timeline (days),Revisions,Included
+0,0,0,38,4.9,🐍 Starter Script,A simple Python script or automation for a specific task (up to 100 lines of code). Ideal for start,Basic,50,1,9,"Source code
+Detailed code comments
+Design customization
+Responsive design"
+0,0,0,38,4.9,⚙️ Functional App,"A medium-complexity desktop app with UI (Tkinter, PyQt, etc.), including 1-2 modules or integrations",Standard,100,1,9,"Source code
+Detailed code comments
+Design customization
+Responsive design"
+0,0,0,38,4.9,🚀 Full-featured Solution,"A complete, advanced Python desktop application with GUI, database, APIs, and up to 3 integrations.",Premium,200,2,9,"Source code
+Detailed code comments
+Design customization
+Responsive design"
+1,1,1,8,5,Essential Python Automation Script,"Expertly written Python automation script for file tasks, parsing, or cron jobs. Clean & documented",Basic,30,2,1,"1 page mined/scraped
+1 source mine/scraped
+Install script
+Test script
+Task automation"
+1,1,1,8,5,Automation & API Integration,"Advanced script with API, DB connection, and error handling. Built with professional standards.",Standard,90,4,2,"5 pages mined/scraped
+3 sources mine/scraped
+Install script
+Test script
+Task automation"
+1,1,1,8,5,Enterprise DevOps Automation Tool,"production-ready tool. Dockerized, multi-threaded with complex logic. Includes logging & cloud-ready",Premium,200,7,3,"10 pages mined/scraped
+5 sources mine/scraped
+Install script
+Test script
+Task automation"
+2,2,2,40,4.6,Small projects,I will your Advanced python projects in as little amount of time as possible. Contact me beforehand,Basic,20,2,3,n/a
+2,2,2,40,4.6,Medium projects,"I will your medium python projects in a little amount of time.  Contact me before placing order",Standard,50,4,4,n/a
+2,2,2,40,4.6,Advanced projects,"I will your small python projects in a small amount of time.   Contact me before placing order",Premium,200,6,5,n/a
+3,3,3,20,5,Simple Site Parsing,"Simple Python script for single task automation.",Basic,50,2,2,"1 page mined/scraped
+1 source mine/scraped
+Install script
+Test script
+Task automation"
+3,3,3,20,5,Authenticated Parsing,Advanced web scraping or data extraction script.,Standard,100,4,3,"100 pages mined/scraped
+3 sources mine/scraped
+Install script
+Test script
+Task automation
+"
+3,3,3,20,5,Advanced Parsing & Automation,Full Python automation project with API & bot support.,Premium,200,7,unlimited,"100 pages mined/scraped
+10 sources mine/scraped
+Install script
+Test script
+Task automation"
+4,4,4,18,5,Basic,- Simple Structured Automation/Scraping Project,Basic,25,1,1,n/a
+4,4,4,18,5,Standard,"- Medium Structured Automation/Scraping project  - Spreadsheet/File automation (CSV/Excel)",Standard,40,3,2,n/a
+4,4,4,18,5,Premium,- Advanced & Complex Scraping/Bots/Automation and a brief report for explanation of workflow.,Premium,55,5,2,n/a
+5,5,5,69,5,$50,Quick Fix/Small Script Fix 1 bug or build 1 small Python script (single task).,Basic,50,3,2,"2 pages mined/scraped
+1 source mine/scraped
+Install script
+Test script
+Task automation"
+5,5,5,69,5,$130,Automation OR Scraper OR API Build 1 automation OR 1 scraper (1 source) OR 1 API integration.,Standard,130,6,3,"10 pages mined/scraped
+2 sources mine/scraped
+Install script
+Test script
+Task automation"
+5,5,5,69,5,$250,Production Workflow Production workflow: multi-step + retries/logging + docs + handover.,Premium,250,10,5,"50 pages mined/scraped
+5 sources mine/scraped
+Install script
+Test script
+Task automation"
+6,6,6,23,4.8,"Simple Python Script","Small script bug fix or one simple automation task",Basic,30,1,n/a,n/a
+6,6,6,23,4.8,"Automation or Web Scraper","Web scraper API integration data export or multi step automation",Standard,90,2,n/a,n/a
+6,6,6,23,4.8,"Full Workflow or Web App ","Full workflow dashboard database deployment and documentation     ",Premium,200,3,n/a,n/a
+7,7,7,15,4.8,$60,"Automation Script One defined script or one bug Includes: Working, tested script",Basic,60,3,2,Source code
+7,7,7,15,4.8,$180,"Automation / Scraper One workflow or scraper, one source/format + error handling, logging, config",Standard,180,5,3,Source code
+7,7,7,15,4.8,$450,"Automation Pipeline Multi-step pipeline/format Multi-step pipeline + integration + scheduling, API integrations, docs",Premium,450,10,unlimited,Source code
+8,8,8,10,4.8,$90,"Starter Script/Scrape Simple script/static scrape (1 site, <500 records). Basic error handling & CSV/Excel output.",Basic,90,1,3,"100 pages mined/scraped
+1 source mine/scraped
+Install script
+Test script
+Task automation"
+8,8,8,10,4.8,$250,"Advanced Script/Scraping Moderate script/dynamic scrape (≤2 sites, <5k records). Handles JS sites. Basic anti-scrape.",Standard,250,3,5,"100 pages mined/scraped
+2 sources mine/scraped
+Install script
+Test script
+Task automation
+"
+8,8,8,10,4.8,$500,"Premium Workflow/Scraping Complex workflow/large scrape (≤5 sites, <20k records). Adv anti-scrape & basic API.",Premium,500,7,unlimited,"100 pages mined/scraped
+5 sources mine/scraped
+Install script
+Test script
+Task automation"
+9,9,9,41,4.9,Python Scrapper,Automate tasks and bot for website scraping,Python Scrapper,100,2,1,"3 pages mined/scraped
+3 sources mine/scraped
+Install script
+Test script
+Task automation"
+10,10,10,21,4.8,Simple Automation Script,"Simple Python automation of small task such as simple web scraping, data cleanup or file processing",Basic,10,1,1,"3 pages mined/scraped
+1 source mine/scraped
+Install script
+Test script
+Task automation"
+10,10,10,21,4.8,Advanced Automation Script,"Custom Python automation for structured web scraping, API usage, Excel automation, data processing",Standard,25,2,2,"5 pages mined/scraped
+3 sources mine/scraped
+Install script
+Test script
+Task automation"
+10,10,10,21,4.8,Complete Automation Solution,"Python automation with large-scale scraping, API integration, performance optimization and testing",Premium,50,5,4,"10 pages mined/scraped
+5 sources mine/scraped
+Install script
+Test script
+Task automation
+"
+11,11,11,128,4.9,STARTER,A basic web scraping solution that performs a few tasks. *Please Contact Before Placing Order*,STARTER,40,2,n/a,"3 pages mined/scraped
+1 source mine/scraped
+Test script
+Task automation"
+12,12,12,4,5,BASIC,Basic python script to automate a task/integrate an API/use LLMs/manipulate CSV files,Basic,100,2,n/a,"Install script
+Test script
+Task automation"
+12,12,12,4,5,STANDARD,Upto 5 days of work on a more complex python script,Standard,500,5,n/a,"Install script
+Test script
+Task automation"
+12,12,12,4,5,PREMIUM,A fully functional AI app with UI,Premium,1500,14,n/a,"Install script
+Test script
+Task automation"
+13,13,13,59,5,BASIC,Simple Google Apps Script integration and automation with Google Sheets or any Google product.,Basic,10,1,unlimited,"1 source mine/scraped
+Install script
+Test script
+Task automation"
+13,13,13,59,5,STANDARD,Complex Google Apps Script automation or Simple web scraping and data storage in Google Sheets.,Standard,45,3,unlimited,"1 source mine/scraped
+Install script
+Test script
+Task automation"
+13,13,13,59,5,PREMIUM,"Advanced web scraping, automation, or integration of external APIs or web Apps with Apps Script.",Premium,150,5,unlimited,"1 source mine/scraped
+Install script
+Test script
+Task automation"
+14,14,14,143,5,Single package,Excel or CSV processing and manipulation in Python,Single package,50,1,unlimited,Source code
+15,15,15,148,5,30 minutes class,I will help you with tasks related to Data analysis. Please contact me before placing your order.,Basic,10,1,n/a,"30 minutes live consultation
+3 questions answered
+Project review
+Model audit"
+15,15,15,148,5,60 minutes class,I will help you with tasks related to Data analysis. Please contact me before placing your order.,Standard,20,1,n/a,"60 minutes live consultation
+4 questions answered
+Project review
+Model audit"
+15,15,15,148,5,90 minutes class,I will help you with tasks related to Data analysis. Please contact me before placing your order.,Premium,30,1,n/a,"90 minutes live consultation
+6 questions answered
+Project review
+Model audit"
+16,16,16,11,5,$100,SIMPLE Basic Excel Automation for a Simple Specific Task.,Basic,100,2,n/a,"Data source connectivity
+API integration
+Formatting & clean up
+Source code"
+16,16,16,11,5,$200,"MEDIUM Excel Automation for many activities such as web data integration, data processing and analysis etc.",Standard,200,3,n/a,"Data source connectivity
+API integration
+Formatting & clean up
+Source code"
+16,16,16,11,5,$400,"ADVANCE Advanced automation with data processing and analysis, custom features, Scraping, and so on.",Premium,400,4,n/a,"Data source connectivity
+API integration
+Formatting & clean up
+Source code"
+17,17,17,64,5,Basic,I will scrape simple website and extract up-to 500 records,Basic,30,2,3,"1 source scraped
+100 pages scraped
+Formatting & clean up"
+17,17,17,64,5,Standard,I will scrape website and extract up-to 2000 records,Standard,50,3,6,"2 sources scraped
+200 pages scraped
+Formatting & clean up"
+17,17,17,64,5,Premium,I will scrape website and extract up-to 5000 records,Premium,100,5,9,"3 sources scraped
+500 pages scraped
+Formatting & clean up"
+18,18,18,0,0,The Quick Cleanup,"1 simple Python script for a single task (e.g., cleaning 1 type of CSV or basic math logic)",Basic,20,1,1,"Test script
+Task automation"
+18,18,18,0,0,The Folder Processor,"A robust script that can handle multiple files, different file types, and more complex rules.",Standard,40,2,n/a,"Test script
+Task automation"
+18,18,18,0,0,The Heavy-Duty Pipeline,"A complex script that acts like a digital employee, handling multiple datasets.",Premium,50,4,n/a,"Test script
+Task automation"
+19,19,19,78,4.9,Scrape Basic Service,includes scraping from one source,Basic,100,3,1,"1 source scraped
+100 pages scraped
+Formatting & clean up"
+19,19,19,78,4.9,Scrape Standard Service,includes scraping from up to 3 sources,Standard,150,5,2,"3 sources scraped
+400 pages scraped
+Formatting & clean up"
+19,19,19,78,4.9,Scrape Premium Service,includes scraping from up to 10 sources,Premium,200,7,3,"10 sources scraped
+1,000 pages scraped
+Formatting & clean up"
+20,20,20,2,5,Basic Package,Simple data cleaning & visualization in Excel or Power BI,Basic,5,1,n/a,"Problem Definition
+Insights summary
+Visualize results
+Executive summary"
+20,20,20,2,5,Standard Package,Advanced Data Insights & Visualization,Standard,20,3,n/a,"Problem Definition
+Insights summary
+Visualize results
+Executive summary"
+20,20,20,2,5,Premium Package,Complete Data Analytics & Business Intelligence,Premium,100,5,n/a,"Problem Definition
+Insights summary
+Visualize results
+Executive summary"
+21,21,21,160,4.9,Data Cleaning,"Clean UPTO 3MB Data File into csv, json or xml",Basic,10,1,unlimited,"Data source connectivity
+API integration
+Formatting & clean up
+Source code"
+21,21,21,160,4.9,Data Cleaning & Transformation,Help you to extract the useful information from your raw data files and store them into clean csv,Standard,50,3,unlimited,"Data source connectivity
+API integration
+Formatting & clean up
+Source code"
+21,21,21,160,4.9,Python Tool to clean Bulk Data,"Custom python tool that will help you to clean, process and transform your data in bulk",Premium,300,7,unlimited,"Data source connectivity
+API integration
+Formatting & clean up
+Source code"
+22,22,22,12,4.9,Starter Automation Package,"Simple Automation• Consistent Formula and Design EX: Simple Budgets, Data Manipulation",Basic,5,2,1,"1 formula
+1 macro
+1 button/form
+Model documentation
+Source code"
+22,22,22,12,4.9,Advanced Office Automation,"Advanced Automation• Few Sheets/Pages• Ex : Transaction, Insight ,Budget, Pivot Table,performance",Standard,25,3,2,"5 formulas
+3 macros
+3 buttons/forms
+Model documentation
+Source code"
+22,22,22,12,4.9,Complex Automation,"Customized Automation with external Data •Ex : Inventory, Budget & Planning, Quote Tracking",Premium,50,5,3,"10 formulas
+10 macros
+10 buttons/forms
+Model documentation
+Source code"
+23,23,23,3,4.7,Basic,I will do data scrapping and cleaning using python,Basic,25,1,2,n/a
+23,23,23,3,4.7,Standard,I will do data scrapping and cleaning using python,Standard,150,3,6,n/a
+23,23,23,3,4.7,Premium,I will do data scrapping and cleaning using python,Premium,400,7,unlimited,na/
+24,24,24,116,4.9,Basic,Send me a message to get quote according to your requirements,Basic,50,3,1,Functional database
+25,25,25,226,5,Simple 1 Pager,"1-2 Charts, simple calculations",Basic,100,2,2,"Data source connectivity
+Web embedding
+Interactive/animated visuals"
+25,25,25,226,5,Small Project,"Data Visualisation of a Business Area Eg - Sales Data, Stock Market, Amazon Seller Data, Any Data",Standard,500,4,3,"Data source connectivity
+Web embedding
+Interactive/animated visuals"
+25,25,25,226,5,Ultimate Dashboards,"Multiple tables, complete cover of a business area + Free multiple consultations",Premium,1500,4,5,"Data source connectivity
+Web embedding
+Interactive/animated visuals"
+26,26,26,8,4.8,"Install, configure or connect SQL","Install, Configure Software, Troubleshooting or connect SQL database","Install, configure or connect SQL",20,3,1,1 Hour of Work
+27,27,27,2,5,Basic,"One focused problem solved a query fixed, a concept explained, or an error debugged",Basic,20,2,n/a,"Debug queries
+Optimize queries
+Analyze queries
+1 query included"
+27,27,27,2,5,Most Popular,1-hour live session learn by doing with real screen-share walkthroughs,Standard,35,2,1,"Debug queries
+Optimize queries
+Analyze queries
+1 query included"
+27,27,27,2,5,Premium,Complete SQL Server project delivered with a training session so you can maintain it,Premium,80,4,1,"Debug queries
+Optimize queries
+Analyze queries
+1 query included"
+28,28,28,0,0,Custom Solution,Custom ETL solution to dynamically load unlimited flat files into a SQL Database. (Custom pricing),Basic,250,1,n/a,"10 query included
+Debug queries
+Optimize queries
+Schedule queries"
+28,28,28,0,0,Basic + Custom Business Rules,Basic package plus custom coding and logic for business rules for your data. (Custom pricing),Standard,450,1,n/a,"10 query included
+Debug queries
+Optimize queries
+Schedule queries"
+28,28,28,0,0,Standard + Custom Export,Standard package plus additional functionality to export CSV data. (Custom pricing),Premium,750,1,n/a,"10 query included
+Debug queries
+Optimize queries
+Schedule queries"
+29,29,29,44,4.9,$50,"BASIC DB ERD, Basic DB design Schema Diagram Permissions Setup 5 Tables Added
+ View 
+ 5 Quries",Basic,50,2,n/a,"Technology selection
+5 tables added
+Permissions setup
+Import/export data
+Setup admin panel
+Schema diagram (ERD)"
+29,29,29,44,4.9,$80,"STANDARD DB ERD, Basic DB design Schema Diagram Permissions Setup 15 Tables Added View  10 SQL Queries",Standard,80,5,1,"Technology selection
+15 tables added
+Permissions setup
+Import/export data
+Setup admin panel
+Schema diagram (ERD)"
+29,29,29,44,4.9,$150,"PREMIUM DB ERD, DB Design  Unlimited Tables Unlimited View Unlimited Function & SP Triggers 20 SQL Quries",Premium,150,7,2,"Technology selection
+30 tables added
+Permissions setup
+Import/export data
+Setup admin panel
+Schema diagram (ERD)"
+30,30,30,106,4.9,Basic - Database Task,"- Simple SQL queries - Database creation (small scale) - ERD (basic) - Relational model",Basic,5,1,unlimited,"Functional database
+Technology selection
+Schema diagram (ERD)
+6 tables added
+Import/export data
+Permissions setup"
+30,30,30,106,4.9,Standard – Advanced Database Work,"- Complex SQL queries - Database creation (medium projects) - Normalization (up to 3NF)",Standard,20,2,unlimited,"Functional database
+Technology selection
+Schema diagram (ERD)
+10 tables added
+Import/export data
+Permissions setup"
+30,30,30,106,4.9,Premium – Complete Database Solutio,"Full database design & implementation Stored procedures, triggers, functions",Premium,50,3,unlimited,"Functional database
+Technology selection
+Schema diagram (ERD)
+15 tables added
+Import/export data
+Permissions setup"
